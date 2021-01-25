@@ -1,2 +1,0 @@
-# UntitledMinecraftProject
-A Minecraft Mod
